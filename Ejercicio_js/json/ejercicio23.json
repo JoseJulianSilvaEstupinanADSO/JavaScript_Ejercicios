@@ -1,0 +1,24 @@
+{
+  "members": [
+    {
+      "nombre": "pedro",
+      "edad": 29
+    },
+    {
+      "nombre": "juan",
+      "edad": 18      
+    },
+    {
+      "nombre": "pablo",
+      "edad": 20
+    },
+    {
+      "nombre": "andres",
+      "edad": 22
+    },
+    {
+      "nombre": "cristiano",
+      "edad": 35
+    }
+  ]
+}
