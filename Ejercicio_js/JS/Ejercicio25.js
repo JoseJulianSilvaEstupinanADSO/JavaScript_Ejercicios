@@ -127,18 +127,18 @@ obj.texto3 = ' Hola mundo '; // Error: El valor de la propiedad "texto3" no debe
 // let proxy = new Proxy(objetoOriginal, handler);
 
 
-// proxy.edad = "25";        
-// proxy.nombre = "Juan";        
-// proxy.correo = "juan@correo.com"; 
-// proxy.fechaNacimiento = "1990-05-15"; 
+// proxy.edad = "25";
+// proxy.nombre = "Juan";
+// proxy.correo = "juan@correo.com";
+// proxy.fechaNacimiento = "1990-05-15";
 
-// console.log(proxy.edad);         
-// console.log(proxy.nombre);        
-// console.log(proxy.correo);         
+// console.log(proxy.edad);
+// console.log(proxy.nombre);
+// console.log(proxy.correo);
 // console.log(proxy.fechaNacimiento);
 
 
-// proxy.edad = "veinticinco";        
-// proxy.nombre = "1234";             
+// proxy.edad = "veinticinco";
+// proxy.nombre = "1234";
 // proxy.correo = "correo@incorrecto";
-// proxy.fechaNacimiento = "fecha";   
+// proxy.fechaNacimiento = "fecha";
